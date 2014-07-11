@@ -1,11 +1,11 @@
 {
-  "name": "thedaniel-test-package-100",
+  "name": "thedaniel-test-package-2",
   "version": "0.1.0",
   "main": "./lib/snippets",
   "description": "Expand snippets matching the current prefix with `tab`.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thedaniel/test-package.git"
+    "url": "https://github.com/thedaniel/test-package-2.git"
   },
   "bugs": {
     "url": "https://github.com/thedaniel/test-package/issues"
