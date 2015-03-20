@@ -1,6 +1,6 @@
 {
   "name": "thedaniel-test-package-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/snippets",
   "description": "Expand snippets matching the current prefix with `tab`.",
   "repository": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/thedaniel/test-package/issues"
   },
   "engines": {
-    "atom": "*"
+    "atom": "0.200.0"
   },
   "publishConfig": {
     "registry": "https://atom.cloudant.com/registry/_design/app/_rewrite"
